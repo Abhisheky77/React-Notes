@@ -64,7 +64,13 @@ React.createElement("h1", null, "Hello");
 jsx:  const name = "Abhishek";
       <h1>Hello {name}</h1>
 
-
+4. Component Banane Me Easy
+React me har UI ek component hota hai.
+JSX se component likhna simple lagta hai:
+jsx:
+function App() {
+  return <h1>Welcome to React</h1>;
+}
 
 */
 
